@@ -1,6 +1,6 @@
 {
   "name": "js-statistics",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Math statistics",
   "main": "src/index.js",
   "scripts": {
