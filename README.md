@@ -7,6 +7,12 @@ Math statistics
 npm install js-statistics
 ```
 
+## Note
+
+This package is not yet complete, and wasn't tested.
+It is still under development.
+Please don't use it in production.
+
 ## Usage
 
 ```javascript
@@ -126,6 +132,3 @@ MIT
 ## Author
 
 Balyunov Aleksandr
-
-
-
