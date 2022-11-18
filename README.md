@@ -127,7 +127,7 @@ const mathExpectation = statistics.mathExpectation(data, fn);
 
 ## License
 
-MIT
+Apache-2.0
 
 ## Author
 
