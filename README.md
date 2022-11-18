@@ -14,10 +14,6 @@ var statistics = require('js-statistics');
 
 var data = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
-// generate random int array with length 10
-
-var randomData = statistics.randomInt(10, 0, 100);
-
 // get mean value
 
 var mean = statistics.mean(data);
