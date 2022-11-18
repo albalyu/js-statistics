@@ -1,6 +1,6 @@
 {
   "name": "js-statistics",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Math statistics",
   "main": "src/index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/albalyu/js-statistics.git"
   },
   "author": "albalyu@gmail.com",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/albalyu/js-statistics/issues"
   },
