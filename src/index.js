@@ -15,7 +15,8 @@ function median(arr) {
 // array mode
 
 function mode(arr) {
-    return arr.reduce((a, b, i, arr) => arr.filter(v => v === a).length >= arr.filter(v => v === b).length ? a : b);
+    return arr.reduce((a, b, i, arr) =>
+        arr.filter(v => v === a).length >= arr.filter(v => v === b).length ? a : b);
 }
 
 
